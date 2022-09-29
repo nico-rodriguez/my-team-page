@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7445290-6c11-4f9e-bbc5-f9d6419b471b/deploy-status)](https://app.netlify.com/sites/my-team-page-45cce8/deploys)
+
 ## Overview
 
 Visit [https://my-team-page-45cce8.netlify.app/](https://my-team-page-45cce8.netlify.app/)
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
